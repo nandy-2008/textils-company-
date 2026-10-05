@@ -1,0 +1,6 @@
+{
+  "name": "Vane & Weft Mill — Architectural Textiles",
+  "description": "Master weavers of architectural drapery, heavy upholstery, organic flax, and sustainable contract textiles for architects, interior designers, and luxury fashion ateliers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
